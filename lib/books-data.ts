@@ -182,12 +182,12 @@ export const books: Book[] = [
     description: "السيرة الذاتية والأفكار السياسية",
   },
   {
-    id: 18,
+    id: 19,
     title: "الجساسة",
-    author: "أحمد آل حمدان ",
+    author: "أحمد آل حمدان",
     price: 35,
     category: "تاريخ",
     cover: "https://m.media-amazon.com/images/I/618oXzR3jzL._AC_UF894,1000_QL80_.jpg",
-    description: "السيرة الذاتية والأفكار السياسية",
+    description: "رواية تاريخية مشوقة",
   },
 ];
